@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+    <head>
+        <title>FeedGoal Subscriptions</title>
+    </head>
+    <body>
+    	<outline text="Latest Medical News/Health News Headlines" title="Latest Medical News/Health News Headlines" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Latest-Medical-News.xml" type="rss"/>
+    	<outline text="Meeting Coverage" title="Meeting Coverage" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/MeetingCoverage.xml" type="rss"/>
+    	<outline text="Washington Watch" title="Washington Watch" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Washington-Watch.xml" type="rss"/>
+    	<outline text="State Required CME" title="State Required CME" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/StateRequiredCME.xml" type="rss"/>
+    	<outline text="Surveys" title="Surveys" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Surveys.xml" type="rss"/>
+    	<outline text="Allergy/Immunology" title="Allergy/Immunology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/AllergyImmunology.xml" type="rss"/>
+    	<outline text="Anesthesiology" title="Anesthesiology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Anesthesiology.xml" type="rss"/>
+    	<outline text="Cardiovascular" title="Cardiovascular" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Cardiology.xml" type="rss"/>
+    	<outline text="Critical Care" title="Critical Care" xmlUrl="http://www.medpagetoday.com/rss/CriticalCare.xml" type="rss"/>
+    	<outline text="Dermatology" title="Dermatology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Dermatology.xml" type="rss"/>
+    	<outline text="Emergency Medicine" title="Emergency Medicine" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/EmergencyMedicine.xml" type="rss"/>
+    	<outline text="Endocrinology" title="Endocrinology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Endocrinology.xml" type="rss"/>
+    	<outline text="Gastroenterology" title="Gastroenterology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Gastroenterology.xml" type="rss"/>
+    	<outline text="Genetics" title="Genetics" xmlUrl="http://www.medpagetoday.com/rss/Genetics.xml" type="rss"/>
+    	<outline text="Geriatrics" title="Geriatrics" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Geriatrics.xml" type="rss"/>
+    	<outline text="Hematology/Oncology" title="Hematology/Oncology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/HematologyOncology.xml" type="rss"/>
+    	<outline text="HIV/AIDS" title="HIV/AIDS" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/HIVAIDS.xml" type="rss"/>
+    	<outline text="Hospital Based Medicine" title="Hospital Based Medicine" xmlUrl="http://www.medpagetoday.com/rss/HospitalBasedMedicine.xml" type="rss"/>
+    	<outline text="Infectious Disease" title="Infectious Disease" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/InfectiousDisease.xml" type="rss"/>
+    	<outline text="Lab Notes" title="Lab Notes" xmlUrl="http://www.medpagetoday.com/rss/LabNotes.xml" type="rss"/>
+    	<outline text="Nephrology" title="Nephrology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Nephrology.xml" type="rss"/>
+    	<outline text="Neurology" title="Neurology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Neurology.xml" type="rss"/>
+    	<outline text="Nursing" title="Nursing" xmlUrl="http://www.medpagetoday.com/rss/nursing.xml" type="rss"/>
+    	<outline text="OB/GYN" title="OB/GYN" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/OBGYN.xml" type="rss"/>
+    	<outline text="Ophthalmology" title="Ophthalmology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Ophthalmology.xml" type="rss"/>
+    	<outline text="Pain Management" title="Pain Management" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/PainManagement.xml" type="rss"/>
+    	<outline text="Pediatrics" title="Pediatrics" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Pediatrics.xml" type="rss"/>
+    	<outline text="Primary Care" title="Primary Care" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/PrimaryCare.xml" type="rss"/>
+    	<outline text="Product Alert" title="Product Alert" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/ProductAlert.xml" type="rss"/>
+    	<outline text="Psychiatry" title="Psychiatry" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Psychiatry.xml" type="rss"/>
+    	<outline text="Public Health/Policy" title="Public Health/Policy" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/PublicHealthPolicy.xml" type="rss"/>
+    	<outline text="Pulmonary" title="Pulmonary" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Pulmonary.xml" type="rss"/>
+    	<outline text="Radiology" title="Radiology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Radiology.xml" type="rss"/>
+    	<outline text="Rheumatology" title="Rheumatology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Rheumatology.xml" type="rss"/>
+    	<outline text="Surgery" title="Surgery" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Surgery.xml" type="rss"/>
+    	<outline text="Urology" title="Urology" xmlUrl="http://www.medpagetoday.com/medical-news-rss-feeds/Urology.xml" type="rss"/>
+    </body>
+</opml>
